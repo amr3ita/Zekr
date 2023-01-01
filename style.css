@@ -12,9 +12,9 @@ img{
 }
 .btn1, .btn2{
     position: absolute;
-    background-color: #878668;
+    background-color: #cd69be;
     color: #ffffffc9;
-    width: 5cm;
+    width: 10cm;
     height: 1.5cm;
     padding: 12px 24px;
     border: none;
@@ -26,16 +26,16 @@ img{
 }
 .btn1{
     top: 50%;
-    left: 50%;
+    left: 40%;
 }
 .btn2{
     top: 60%;
-    left: 50%;
+    left: 40%;
 }
 a:link, a:visited{
     text-decoration: none;
     color: #ffffffc9;
 }
 button:hover{
-    background-color: gray;
+    background-color: #aaacfb;
 }
